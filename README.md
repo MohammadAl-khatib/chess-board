@@ -1,2 +1,2 @@
 ## Chess Board
-PR:
+PR: https://github.com/MohammadAl-khatib/chess-board/pull/1
